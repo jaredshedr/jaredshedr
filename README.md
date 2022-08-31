@@ -2,7 +2,7 @@
 
 I’m a motivated and driven full stack software engineer specializing in web development, with a masters in I/O psych from Touro University. As an engineer I enjoy taking a complex problem and boiling it down into its most integral parts. 
 
-I have a wealth of experience working with clients, and would love an opportunity to blend my tech experience, educational background and passion for working with individuals.
+I have a wealth of experience working with clients, and would love an opportunity to blend my tech experience, educational background and passion for working with people.
 
 ## How to reach me: 
 
