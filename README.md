@@ -9,7 +9,7 @@ Email - jaredsurfside@gmail.com
 Cell - 914-260-8474
 LinkedIN - www.linkedin.com/in/jaredshedrofsky
 
-📙 Check out my [(https://docs.google.com/document/d/1ftGMpQWvagk3tH3pZTijQQcfCRkSFDJYZmTsx3G8bsg)].
+📙 Check out my [resume](https://docs.google.com/document/d/1ftGMpQWvagk3tH3pZTijQQcfCRkSFDJYZmTsx3G8bsg/).
 
 
 <!--
