@@ -5,9 +5,10 @@ I’m a motivated and driven full stack software engineer specializing in web de
 I have a wealth of experience working with clients, and would love an opportunity to blend my tech experience, educational background and passion for working with individuals.
 
 ## How to reach me: 
+
 📫 Email - jaredsurfside@gmail.com <br>
-Cell - 914-260-8474
-LinkedIN - www.linkedin.com/in/jaredshedrofsky
+📱 Cell - 914-260-8474 <br>
+🐷 LinkedIN - www.linkedin.com/in/jaredshedrofsky <br>
 
 📙 Check out my [resume](https://docs.google.com/document/d/1ftGMpQWvagk3tH3pZTijQQcfCRkSFDJYZmTsx3G8bsg/).
 
