@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi!
+
+I’m a motivated and driven full stack software engineer specializing in web development, with a masters in I/O psych from Touro University. As an engineer I enjoy taking a complex problem and boiling it down into its most integral parts. 
+
+I have a wealth of experience working with clients, and would love an opportunity to blend my tech experience, educational background and passion for working with individuals.
+
+📫 How to reach me: 
+Email - jaredsurfside@gmail.com
+Cell - 914-260-8474
+LinkedIN - www.linkedin.com/in/jaredshedrofsky
+
+📙 Check out my [(https://docs.google.com/document/d/1ftGMpQWvagk3tH3pZTijQQcfCRkSFDJYZmTsx3G8bsg)].
+
 
 <!--
 **jaredshedr/jaredshedr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
